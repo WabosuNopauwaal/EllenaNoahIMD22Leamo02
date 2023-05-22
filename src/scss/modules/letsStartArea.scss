@@ -1,0 +1,48 @@
+.letsStartArea h2 {
+  display: inline-block;
+  margin-top: 193px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+@media (max-width: 900px) {
+  .letsStartArea h2 {
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+.letsStartArea p {
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-right: 100px;
+  margin-bottom: 33px;
+}
+
+@media (max-width: 900px) {
+  .letsStartArea p {
+    margin-top: 42px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+.letsStartArea a {
+  margin-left: 70px;
+  margin-right: 224px;
+  margin-bottom: 114px;
+}
+
+@media (max-width: 900px) {
+  .letsStartArea a {
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+@media (max-width: 900px) {
+  .letsStartArea img {
+    margin-top: 60px;
+  }
+}
