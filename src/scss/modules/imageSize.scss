@@ -1,49 +1,100 @@
-.introIMG {
-  max-width: 894px;
-  max-height: 565px;
+@media (min-width: 1300px) {
+  .introIMG {
+    max-width: 361px;
+    max-height: 228px;
+  }
+
+  @media (min-width: 360px) {
+    .introIMG {
+      max-width: 894px;
+      max-height: 565px;
+    }
+  }
 }
 
-.selectionIMG {
-  max-width: 404;
-  max-height: 404;
+@media (min-width: 1300px) {
+  .selectionIMG {
+    max-width: 328px;
+    max-height: 437px;
+  }
+
+  @media (min-width: 360px) {
+    .selectionIMG {
+      max-width: 404px;
+      max-height: 404px;
+    }
+  }
 }
 
-.engagentIMG {
-  max-width: 528;
-  max-height: 537;
+@media (min-width: 1300px) {
+  .engagementIMG {
+    max-width: 332px;
+    max-height: 338px;
+  }
+
+  @media (min-width: 360px) {
+    .engagentIMG {
+      max-width: 528px;
+      max-height: 537px;
+    }
+  }
 }
 
-.SHOPnowIMG {
-  max-width: 489;
-  max-height: 689;
+@media (min-width: 1300px) {
+  .SHOPnowIMG {
+    max-width: 290px;
+    max-height: 409px;
+  }
+
+  @media (min-width: 360px) {
+    .SHOPnowIMG {
+      max-width: 489px;
+      max-height: 689px;
+    }
+  }
 }
 
-.recettesIMG {
-  max-width: 798;
-  max-height: 1022;
+@media (min-width: 1300px) {
+  .recettesIMG {
+    max-width: 362px;
+    max-height: 404px;
+  }
+
+  @media (min-width: 360px) {
+    .recettesIMG {
+      max-width: 798px;
+      max-height: 1022px;
+    }
+  }
 }
 
 .recettes01IMG {
-  max-width: 241;
-  max-height: 241;
+  max-width: 241px;
+  max-height: 241px;
 }
 
 .recettes02IMG {
-  max-width: 248;
-  max-height: 248;
+  max-width: 248px;
+  max-height: 248px;
 }
 
 .recettes03IMG {
-  max-width: 260;
-  max-height: 242;
+  max-width: 260px;
+  max-height: 242px;
 }
 
-.islandIMG {
-  max-width: 363;
-  max-height: 363;
-}
+@media (min-width: 800px) {
+  .islandIMG,
+  .shelfdIMG {
+    max-width: 205px;
+    max-height: 205px;
+  }
 
-.shelfIMG {
-  max-width: 363;
-  max-height: 363;
+  @media (min-width: 1000px) {
+    .islandIMG,
+    .shelfdIMG {
+      max-width: 363px;
+      max-height: 363px;
+    }
+  }
 }
