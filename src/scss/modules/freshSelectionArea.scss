@@ -28,6 +28,13 @@
 }
 
 @media (max-width: 900px) {
+  .freshSelectionArea a {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+@media (max-width: 900px) {
   .freshSelectionArea img {
     margin-top: 35px;
   }

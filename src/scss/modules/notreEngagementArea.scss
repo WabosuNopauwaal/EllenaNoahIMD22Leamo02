@@ -1,0 +1,20 @@
+.notreEngagementArea h2 {
+  margin-top: 270px;
+  margin-left: 355px;
+  margin-right: 400px;
+  margin-bottom: 14px;
+}
+
+@media (max-width: 900px) {
+  .notreEngagementArea h2 {
+    margin: 14px 0;
+  }
+
+  .notreEngagementArea p {
+    margin-left: 0;
+  }
+}
+
+.notreEngagementArea {
+  padding: 24px;
+}
