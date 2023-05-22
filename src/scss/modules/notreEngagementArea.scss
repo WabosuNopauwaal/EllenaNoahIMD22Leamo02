@@ -1,5 +1,5 @@
 .notreEngagementArea h2 {
-  margin-top: 270px;
+  margin-top: 200px;
   margin-left: 355px;
   margin-right: 400px;
   margin-bottom: 14px;
@@ -7,14 +7,26 @@
 
 @media (max-width: 900px) {
   .notreEngagementArea h2 {
-    margin: 14px 0;
+    margin: 57px 0px 0px 0px;
   }
+}
 
+.notreEngagementArea p {
+  margin-left: 355px;
+}
+
+@media (max-width: 900px) {
   .notreEngagementArea p {
-    margin-left: 0;
+    margin: 0px 0px 70px 0px;
   }
 }
 
 .notreEngagementArea {
   padding: 24px;
+}
+
+@media (max-width: 900px) {
+  .notreEngagementArea {
+    padding: 14px 0px 57px 0px;
+  }
 }

@@ -1,0 +1,43 @@
+.shopNowArea {
+  padding: 21px 0px 21px 14px;
+}
+
+@media (max-width: 900px) {
+  .shopNowArea {
+    padding: 7px 0px 179px 0px;
+  }
+}
+
+.shopNowArea h2 {
+  margin-top: 449px;
+  margin-left: 140px;
+  margin-bottom: 14px;
+}
+
+@media (max-width: 900px) {
+  .shopNowArea h2 {
+    margin: 49px 0px 25px 0px;
+  }
+}
+
+.shopNowArea p {
+  margin-left: 140px;
+  margin-bottom: 25px;
+}
+
+@media (max-width: 900px) {
+  .shopNowArea p {
+    margin: 0px 0px 44px 0px;
+  }
+}
+
+.shopNowArea a {
+  margin-top: 14px;
+  margin-left: 140px;
+}
+
+@media (max-width: 900px) {
+  .shopNowArea a {
+    margin: 0px;
+  }
+}
