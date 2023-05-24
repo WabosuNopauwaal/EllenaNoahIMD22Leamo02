@@ -1,0 +1,64 @@
+.findUsArea {
+  padding: 21px 141px 49px 51px;
+}
+
+@media (max-width: 900px) {
+  .findUsArea {
+    padding: 39px 0px 49px 0px;
+  }
+}
+
+.title-findUs {
+  margin: 21px 0px 14px 113px;
+}
+
+.findUsArea h2 {
+  margin-left: 125px;
+  margin-bottom: 35px;
+  margin-top: 160px;
+}
+
+@media (max-width: 900px) {
+  .findUsArea h2 {
+    margin-left: 0px;
+    margin-bottom: 38px;
+    margin-top: 63px;
+  }
+}
+
+.findUsArea p {
+  margin-left: 125px;
+  margin-bottom: 35px;
+}
+
+@media (max-width: 900px) {
+  .findUsArea p {
+    margin-left: 0px;
+    margin-bottom: 47px;
+  }
+}
+
+.findUsArea a {
+  margin-left: 125px;
+}
+
+@media (max-width: 900px) {
+  .findUsArea a {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 900px) {
+  .findUsArea .islandIMG {
+    width: 205px;
+    margin-right: 120px;
+    margin-bottom: 35px;
+  }
+}
+
+@media (max-width: 900px) {
+  .findUsArea .shelfIMG {
+    width: 205px;
+    margin-left: 120px;
+  }
+}
